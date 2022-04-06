@@ -23,7 +23,9 @@ article {
     padding: 5px;
 }
 .szamok {
-   
+   display: flex;
+   max-width: 80px;
+   flex-wrap: wrap;
 }
 .szamok button {
     
